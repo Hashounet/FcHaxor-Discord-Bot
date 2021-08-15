@@ -15,7 +15,7 @@ hash@host ~> Premièrement téléchargez le repo en .zip
 hash@host ~> Extrayez le .zip ou vous voulez
 hash@host ~> Ensuite extrayez le "extrait_ici.zip"
 hash@host ~> Par la suite mettez le token de vôtre bot dans config.json ainsi que vôtre id
-hash@host ~> Ensuite ouvrez le "start.bat"
+hash@host ~> Ensuite executez le "start.bat"
 ```
 
 -----

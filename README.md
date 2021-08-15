@@ -1,6 +1,6 @@
 # #FcHaxor ❤️
 <center>
-[![Serveur Discord](https://cdn.discordapp.com/icons/876108056918896650/a_3c9eb215cd438ca7e3e0f4169042a335.webp?size=128)](https://discord.gg/ryMSQHde6D)
+<a href="https://discord.gg/ryMSQHde6D"><img src="https://cdn.discordapp.com/icons/876108056918896650/a_3c9eb215cd438ca7e3e0f4169042a335.webp?size=128"></a>
 </center>
 
 *Bienvenue sur la page de mon bot, le meilleur Bot Discord !*

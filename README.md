@@ -11,7 +11,7 @@ Mon bot est le meilleur bot polyvalent que vous puissiez trouver sur github. Dot
 # Installation
 
 ```
-hash@host ~> Premièrement téléchargez le selfbot en .zip
+hash@host ~> Premièrement téléchargez le repo en .zip
 hash@host ~> Extrayez le .zip ou vous voulez
 hash@host ~> Ensuite extrayez le "extrait_ici.zip"
 hash@host ~> Par la suite mettez le token de vôtre bot dans config.json ainsi que vôtre id

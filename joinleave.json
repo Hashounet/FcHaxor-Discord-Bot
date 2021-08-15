@@ -1,0 +1,8 @@
+{
+  "status": "on",
+  "joinchannel": "829841479676854282",
+  "leavechannel": "829841535478267914",
+  "joinmsg": "${user.tag} à join",
+  "leavemsg": "${user.tag} à leave",
+  "color": "#ff1234"
+}
